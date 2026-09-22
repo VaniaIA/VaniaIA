@@ -40,7 +40,7 @@ I work on applied ML systems, model evaluation, and turning experiments into too
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,numpy,pandas&theme=dark" alt="AI / ML"/>
 
 ## Languages
-- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-IntermediárioAdvenced-00e87a?style=flat-square)
+- 🇬🇧 **English** · ![Native](https://img.shields.io/badge/-Advenced-00e87a?style=flat-square)
 
 ## GitHub Signals
 
